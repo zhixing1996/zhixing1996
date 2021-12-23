@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zhixing1996
 - 👀 I’m interested in high energy experimental physics
 - 🌱 I’m currently learning high energy experimental physics
-- 💞️ I’m looking to collaborate on BESIII
+- 💞️ I’m looking to collaborate on BESIII and BelleII
 - 📫 How to reach me jingmaoqiang1996@163.com
 
 <!---
